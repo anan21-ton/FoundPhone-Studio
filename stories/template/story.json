@@ -9,7 +9,8 @@
     "date": "2026-10-25",
     "time": "09:41",
     "battery": 94,
-    "network": "5G",
+    "network": "5G","wallpaper": "apple-wwdc26",
+"passcode": "0321"
     "wallpaper": "apple-wwdc26"
   },
   "installedApps": [
